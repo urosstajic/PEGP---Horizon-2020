@@ -3,19 +3,19 @@ Documentation (Project overview statement, budget plans, marketing plan, present
 
 First phase:
 
-  Project Overview Statement (POS)
-  Budget plans (the total budget of the consortium and the budget of partners)
-  Presentation for the expert commission
-  Resource Breakdown Structure (RBS)
-  Initial display of the LogIn component
+    Project Overview Statement (POS)
+    Budget plans (the total budget of the consortium and the budget of partners)
+    Presentation for the expert commission
+    Resource Breakdown Structure (RBS)
+    Initial display of the LogIn component
 
 Second phase:
 
-  Detailed project plan in MS Project
+    Detailed project plan in MS Project
 
 Third phase:
 
-Project prototype (Proto.io)
-  Marketing plan
-  User manual
-  The prototype shows page navigation, types of users that exist in the system and some basic system functionalities.
+    Project prototype (Proto.io)
+     Marketing plan
+      User manual
+     The prototype shows page navigation, types of users that exist in the system and some basic system functionalities.
