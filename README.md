@@ -16,6 +16,6 @@ Second phase:
 Third phase:
 
     Project prototype (Proto.io)
-     Marketing plan
-      User manual
-     The prototype shows page navigation, types of users that exist in the system and some basic system functionalities.
+    Marketing plan
+    User manual
+    The prototype shows page navigation, types of users that exist in the system and some basic system functionalities.
